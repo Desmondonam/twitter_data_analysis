@@ -10,3 +10,6 @@ The scope off this is to make sure we are able to predict what people are thinki
 
 ## Installations 
 We are going to install tweepy and also install textblob
+
+## Visualization
+In this project I used matplotlib and wordcloud to make visualizations. 
